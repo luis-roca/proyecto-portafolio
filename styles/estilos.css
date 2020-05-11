@@ -53,7 +53,7 @@ li:nth-child(3){
   background: yellow;
 } */
 
-li:nth-child(even){
+/* li:nth-child(even){
   background: yellow;
 }
 
@@ -61,16 +61,43 @@ li:nth-child(odd){
   background: red;
 }
 
-input:focus{
-  outline:none;
-  border: 2px solid black;
-  background-color: red;
-}
-
 p::first-line{
-  background-color: red;
+  background: red;
 }
 
 p::first-letter{
-  color: yellow;
+  font-size: 42px;
 }
+
+li::first-line
+  background-color: blue;
+}
+ */
+
+p{
+   line-height: 1.5;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.parrafo01{
+  background-color: red;
+}
+
+.parrafo02{
+  background-color: blue;
+  text-align: center;
+}
+
+.parrafo03{
+  background-color: yellow;
+}
+
+.parrafo04{
+  background-color: pink;
+  text-align: center;
+}
+
+p::first-letter{
+  font-size: 40px;
+}
+
