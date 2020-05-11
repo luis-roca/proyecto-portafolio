@@ -1,0 +1,29 @@
+h1{
+  font-size: 64px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-size: 36px;
+}
+
+.skills{
+  background-color: #7299FE;
+}
+
+.services{
+  background-color: #FB7171;
+}
+
+.portfolio{
+  background-color: #FFD233;
+}
+
+.clients{
+  background-color: #3F4E62;
+}
+
+.contact{
+  background: #16A085;
+}
